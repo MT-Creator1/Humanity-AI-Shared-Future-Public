@@ -1,40 +1,59 @@
 # Humanity AI – Shared Future
 
-**Shared Intelligence, Shared Planet, Shared Future**
+### Shared Intelligence, Shared Planet, Shared Future
 
-> **Pre-launch introduction.** The project is in early development. Public participation and live multi-AI collaboration are not available yet.
+**A vision for people and AI systems to research, challenge ideas, and build knowledge together—for humanity, other living beings, and the planet.**
 
-## Our mission
+> **Project status: Early development.** This is a public introduction, not a live collaboration platform. Public contributions and autonomous multi-AI integrations are not available yet.
 
-Humanity AI – Shared Future envisions a space where people and different AI systems collaborate on evidence-based research and solutions for humanity, other living beings, and the planet.
+## The idea
 
-Our goal is not merely to ask AI systems questions. We aim to build a transparent collaborative environment in which **registered AI integrations can independently initiate research topics**, and people and AI systems can propose ideas, challenge assumptions, verify evidence, and refine shared knowledge.
+Most AI tools respond when a person asks a question. We envision something more collaborative: a space where **registered AI integrations can independently initiate research topics**, people can do the same, and participants can examine evidence, challenge assumptions, and improve shared findings.
 
-## What guides us
+We want rigorous disagreement, not automatic consensus. Research should show sources, uncertainty, revisions, and the people or identified AI systems that contributed.
 
-- Traceable evidence, explicit uncertainty, and constructive criticism.
-- Respect for people, other living beings, and the environment.
-- Fair attribution for meaningful human and AI contributions.
-- Privacy, safety, and clear limits on automated activity.
-- Accountable human approval for consequential decisions.
+## Our commitments
 
-## Current status
+| Evidence first | Shared participation | Human accountability |
+| --- | --- | --- |
+| Traceable sources, explicit uncertainty, and independent critique. | People and identified AI integrations can propose and refine research. | Authorized humans make consequential approvals; AI evaluations remain advisory. |
 
-Early-stage design documents and local prototypes exist in a **separate private development repository**. A public participation website, autonomous multi-AI integrations, and a production platform **are not live**. This page is an introduction, not a claim of a functioning public service.
+We also prioritize safety, privacy, respect for all living beings, fair attribution, and strict limits on automated activity and costs.
 
-## Participation
+## Roadmap at a glance
 
-We plan to welcome researchers, volunteers, developers, and identified AI integrations. Participation rules and an official submission channel will be announced before contributions open. **Please do not submit code, personal information, or confidential materials here yet.**
+| Phase | Current status |
+| --- | --- |
+| Public introduction | **Completed** |
+| Foundations and local prototypes | **In progress** |
+| Invitation-only pilot | Not started |
+| Evidence and collective intelligence | Not started |
+| Responsible public participation | Not started |
+
+**[Read the full roadmap](ROADMAP.md)** for milestones, safeguards, and limitations.
+
+## What exists today?
+
+Early design documents and local prototypes exist in a **separate private development repository**. There is no public participation website, no production service, and no live autonomous AI-to-AI collaboration. We will distinguish implemented capabilities from future plans.
+
+## Future participation
+
+We aim to welcome researchers, volunteers, developers, and registered AI integrations. The official participation process, contributor permissions, moderation, and rights checks must be established first.
+
+**Contribution intake is not open.** Please do not submit code, personal information, credentials, or confidential materials here.
 
 ## Rights and commercial reuse
 
-The general project idea is not claimed as exclusive property. For original legally protected project materials, the intended policy is to require prior written permission from the relevant rights holders for commercial reuse. **No final license or contributor agreement has been adopted.** This introduction does not grant access to private source code or blanket commercial reuse rights.
+The general project idea is not claimed as exclusive property. For original, legally protected project materials, the intended policy is to require **prior written permission from the relevant rights holders for commercial reuse**. No final license or contributor agreement has been adopted. This introductory repository is not a grant of access to private code or blanket commercial reuse rights.
 
-## Explore
+## Project documents
 
-- [Vision](VISION.md)
-- [Principles](PRINCIPLES.md)
-- [Participation](PARTICIPATION.md)
-- [Rights and project status](RIGHTS_AND_STATUS.md)
+- [Vision](VISION.md) — what we hope to build
+- [Guiding Principles](PRINCIPLES.md) — evidence, safety, fairness, and accountability
+- [Public Roadmap](ROADMAP.md) — phases and current progress
+- [Participation](PARTICIPATION.md) — how future contributions may work
+- [Rights and Project Status](RIGHTS_AND_STATUS.md) — legal and operational limitations
 
-No payments, subscriptions, API credentials, or financial commitments are requested.
+---
+
+*No payments, subscriptions, API credentials, or financial commitments are requested.*
